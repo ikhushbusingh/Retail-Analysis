@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RETAIL ANALYSIS</title>
+    <h1>RETAIL ANALYSIS</h1>
 
 </head>
 <body>
