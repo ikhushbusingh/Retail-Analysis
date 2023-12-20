@@ -1,70 +1,120 @@
-# Retail-Analysis Infosys VS TCS Stocks Analysis:
-Exploratory Data Analysis on TCS & INFOSYS stocks data.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RETAIL ANALYSIS</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        section {
+            margin-bottom: 40px;
+        }
+        h2 {
+            color: #333;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
 
-In this project, I am working with time series data to explain how data looks like over a time period.
+<section>
+    <h2>Sheet 1: Retail Analysis</h2>
+    <p><strong>Project Name:</strong> E Commerce company working on optimizing the app</p>
+</section>
 
-A Comparison between TCS & INFOSYS stocks to under which stocks perform better over time.
+<section>
+    <h2>Sheet 2: Strategy</h2>
+    <ol>
+        <li>3 Tables</li>
+        <ul>
+            <li>Login Logs Table - Users Behaviour</li>
+            <li>Sale Order - Marketing Efficiency</li>
+            <li>Sales Order Item - Product Performance</li>
+        </ul>
+    </ol>
+</section>
 
+<section>
+    <h2>Sheet 3: Daily Logins</h2>
+    <ol>
+        <li>On Every Sunday, no. of users login declines</li>
+        <li>Increase in no. of users in 2022 as compared to 2021</li>
+    </ol>
+</section>
 
+<section>
+    <h2>Sheet 4: Conversion Rate</h2>
+    <ol>
+        <li>Conversion Rate = Daily Orders Placed / Daily Login Count</li>
+        <li>Conversion Rate of 2021 = 2.13%</li>
+        <li>Conversion Rate of 2022 = 1.92%</li>
+        <li>Login increased in 2022 but the number of orders has decreased</li>
+        <li>Users not satisfied with products</li>
+    </ol>
+</section>
 
- User's Guide:
-Files/Folder	Description
-EDA	In this folder, I have provided the complete analysis source code in jupyter notebook file(.ipynb) and the corresponding data of the organizations' stocks.
-Dashboard	In this folder, we can find the Excel file with an interactive dashboard solution.
- Insights:
-some visualisations after performing Exploratory Data Analysis!
-1. Price Comparison both of the company
-Conclusion: TCS stocks are all time on hike than INFOSYS stocks. 1
-2. Return rate Comparison both of the company
-Conclusion: TCS stocks return rate is less than INFOSYS stocks. 2
-3. Volume Comparsion for both stocks
-Conclusion: Availability of INFOSYS stocks is more than TCS stocks. 3
-4. Check fluctuation on daily basis for both stock
-Conclusion: Fluctuation rate of TCS stocks is higher than INFOSYS stocks. 4
-5. Last 50 days trend of both stocks side by side
-Explaination of Candlestick chart!
+<section>
+    <h2>Sheet 5: KPI</h2>
+    <ol>
+        <li>Churn Rate = 66.80%</li>
+        <li>Conversion Rate of 2022 = 1.92%</li>
+        <li>80% Revenue = 4% Users</li>
+        <li>Active Users = 15%</li>
+    </ol>
+</section>
 
-5
+<section>
+    <h2>Sheet 6: Top Selling Products</h2>
+    <ol>
+        <li>10235 was the top-selling product in 2021 but could not perform well in 2022</li>
+        <li>Newly launched product 12547 was the top-selling product in 2022</li>
+        <li>Underperforming products of 2021 performed well in 2022</li>
+        <li>Top performer in 2021 couldn't perform well in 2022</li>
+        <li>Product ID (9925) is discontinued</li>
+    </ol>
+</section>
 
- Complete Deployed Analysis Here:
-click on image to visit:
+<section>
+    <h2>Sheet 7: Insights</h2>
+    <ol>
+        <li>Login frequency & Order placed both decline on every Sunday</li>
+        <li>In 2022 Login frequency increased as well as the number of order placed increased</li>
+        <li>No. of Order is directly proportional to Login frequency</li>
+    </ol>
+</section>
 
+<section>
+    <h2>Sheet 8: Order Trend</h2>
+    <ol>
+        <li>No. of Order placed decline on every Sunday</li>
+        <li>From 2nd and 3rd week no. of order placed in 2022 is greater than 2021</li>
+    </ol>
+</section>
 
- Dashboard:
-Note: This dashboard is created in Excel so, please download the excel file to click on the below Image: 
+<section>
+    <h2>Sheet 9: Challenges/Learning</h2>
+    <ol>
+        <li>Difficult to draw the chart from the given table but overcome that problem after trying different charts</li>
+        <li>Learn how to work in a team</li>
+        <li>Draw the insights from the data</li>
+        <li>Understanding KPI’s</li>
+    </ol>
+</section>
 
-About
-No description, website, or topics provided.
-Resources
- Readme
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
-HTML
-54.9%
- 
-Jupyter Notebook
-45.1%
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+</body>
+</html>
